@@ -14,7 +14,7 @@ namespace McDonalds.DataAcces.IRepository
 
         Task Add(Breakfast breakfast);
 
-        Task Update(int Id, Breakfast breakfast);
+        Task Update(int Id, Breakfast breakfast); 
 
         Task Delete(int Id);
     }

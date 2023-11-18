@@ -16,7 +16,7 @@ namespace McDonaldsAPI.Configurations
             CreateMap<Breakfast, BreakfastDto>().ReverseMap();
             CreateMap<Desserts_Bakery, Desserts_BakeryDto>().ReverseMap();
             CreateMap<Customer, CustomerDto>().ReverseMap();
-            CreateMap<CustomerDto1, LoginDto>().ReverseMap();
+            CreateMap<CustomerDto1, LoginDto>().ReverseMap();  
         }
     }
 }

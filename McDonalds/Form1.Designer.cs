@@ -32,8 +32,10 @@
             panel1 = new Panel();
             button1 = new Button();
             panel2 = new Panel();
+            button2 = new Button();
             tableLayoutPanel1.SuspendLayout();
             panel1.SuspendLayout();
+            panel2.SuspendLayout();
             SuspendLayout();
             // 
             // tableLayoutPanel1
@@ -80,12 +82,22 @@
             // 
             panel2.AutoScroll = true;
             panel2.BackColor = Color.Gold;
+            panel2.Controls.Add(button2);
             panel2.Dock = DockStyle.Fill;
             panel2.Location = new Point(0, 150);
             panel2.Margin = new Padding(0);
             panel2.Name = "panel2";
             panel2.Size = new Size(1789, 752);
             panel2.TabIndex = 1;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(114, 15);
+            button2.Name = "button2";
+            button2.Size = new Size(112, 34);
+            button2.TabIndex = 0;
+            button2.Text = "button2";
+            button2.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -98,6 +110,7 @@
             Text = "Form1";
             tableLayoutPanel1.ResumeLayout(false);
             panel1.ResumeLayout(false);
+            panel2.ResumeLayout(false);
             ResumeLayout(false);
         }
 
@@ -107,5 +120,6 @@
         private Panel panel1;
         private Button button1;
         private Panel panel2;
+        private Button button2;
     }
 }

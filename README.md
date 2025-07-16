@@ -19,12 +19,11 @@ Welcome to the **McDonald's Clone Project** — a modern, code-based take on one
 
 ## 🛠️ Tech Stack
 
-> Update this section based on what you used
 
-- **Frontend:** HTML, CSS, JavaScript *(or React, Vue, etc.)*  
-- **Backend:** .NET / Node.js / Django *(if applicable)*  
-- **Database:** SQL Server / MongoDB / PostgreSQL *(if applicable)*  
-- **Authentication:** JWT / Session / OAuth *(optional)*
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** C# / .Net 8   
+- **Database:** SQL Server / MongoDB / PostgreSQL 
+- **Authentication:** JWT / Auth
 
 ---
 

@@ -30,11 +30,10 @@ Welcome to the **McDonald's Clone Project** — a modern, code-based take on one
 
 ## 📸 Screenshots
 
-> Insert images here if you have them
 
 | Homepage                | Menu Page                | Cart & Checkout           |
 |------------------------|--------------------------|---------------------------|
-| ![](screenshots/home.png) | ![](screenshots/menu.png) | ![](screenshots/checkout.png) |
+| ![](https://i.pinimg.com/736x/81/db/46/81db46ce9a72e0af16b15a438f0b879a.jpg) | ![](screenshots/menu.png) | ![](screenshots/checkout.png) |
 
 ---
 

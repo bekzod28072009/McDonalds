@@ -33,7 +33,7 @@ Welcome to the **McDonald's Clone Project** — a modern, code-based take on one
 
 | Homepage                | Menu Page                | Cart & Checkout           |
 |------------------------|--------------------------|---------------------------|
-| ![](https://i.pinimg.com/736x/81/db/46/81db46ce9a72e0af16b15a438f0b879a.jpg) | ![](screenshots/menu.png) | ![](screenshots/checkout.png) |
+| ![](https://i.pinimg.com/736x/81/db/46/81db46ce9a72e0af16b15a438f0b879a.jpg) | ![](https://i.pinimg.com/736x/c8/3e/fa/c83efaf18962d2eb1cbbb943d7292fba.jpg) | ![](screenshots/checkout.png) |
 
 ---
 
